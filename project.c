@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 #include<math.h>
-// this by izzeran dsefgeuifhwe
+// this by izzeran 
 int max(int a);
 
 int main(){
